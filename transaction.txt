@@ -1,0 +1,115 @@
+Transaction
+ Total Bill : 600
+Taking Cash : 1000
+Return Cash : 400Transaction successfully 
+
+Transaction
+ Total Bill : 400
+Taking Cash : 500
+Return Cash : 100
+Transaction successfully 
+
+Transaction
+ Total Bill : 400
+Taking Cash : 500
+Return Cash : 100
+Transaction successfully 
+
+Transaction
+ Total Bill : 100
+Taking Cash : 200
+Return Cash : 100
+Transaction successfully 
+
+Transaction
+ Total Bill : 300
+Taking Cash : 500
+Return Cash : 200
+Transaction successfully 
+
+Transaction
+ Total Bill : 500
+Taking Cash : 500
+Return Cash : 0
+Transaction successfully 
+
+Transaction
+ Total Bill : 400
+Taking Cash : 1000
+Return Cash : 600
+Transaction successfully 
+
+Transaction
+ Total Bill : 300
+Taking Cash : 500
+Return Cash : 200
+Transaction successfully 
+
+Staff Order
+SabziQuantity : 1
+Bill : 0x7ffc1b591960
+
+Staff Order
+SabziQuantity : 1
+Bill : 
+
+Staff Order
+BurgerQuantity : 1
+Bill : 
+
+Staff Order
+BurgerQuantity : 1
+Bill : 0x7ffe5f52f828
+
+Staff Order
+PepsiQuantity : 2
+Bill : 0x7ffc47f0fbc8
+
+Staff Order
+PepsiQuantity : 1
+Bill : 0x7fffe2971058
+
+Staff Order
+PepsiQuantity : 1
+Bill : 0x7ffc597241c8
+
+Staff Order
+BurgerQuantity : 1
+Bill : 0x7ffcee084888
+
+Staff Order
+FriesQuantity : 1
+Bill : 0x7ffdcfc23718
+
+Staff Order
+TikkaQuantity : 1
+Bill : 0x7ffcc3359778
+
+Staff Order
+KarahiQuantity : 1
+Bill : 0x7fff3ad49548
+
+Staff Order
+Coke  Quantity : 2
+Bill : 140
+return Cash : 140
+Staff Order
+Samosa  Quantity : 2
+Bill : 60
+return Cash : 60
+Staff Order
+Sabzi  Quantity : 1
+Bill : 120
+return Cash : 98
+Staff Order
+Biryani  Quantity : 20
+Bill : 3600
+return Cash : 4000
+Staff Order
+Juice  Quantity : 2
+Bill : 200
+return Cash : 500
+Staff Order
+Biryani  Quantity : 1
+Bill : 200
+recieve Cash : 200

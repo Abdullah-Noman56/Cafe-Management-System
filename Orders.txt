@@ -1,0 +1,64 @@
+Student Order
+BurgerQuantity : 1
+Bill : 200
+
+Student Order
+TikkaQuantity : 2
+Bill : 600
+
+Staff Order
+BurgerQuantity : 1
+Bill : 200
+
+Student Order
+BurgerQuantity : 1
+Bill : 200
+
+Student Order
+TikkaQuantity : 
+Bill : 600
+
+Student Order
+BiryaniQuantity :
+Bill : 400
+
+Student Order
+BiryaniQuantity : 
+Bill : 200
+
+Student Order
+Tikka Quantity : 2
+Bill : 600
+
+Student Order
+Chat Quantity : 2
+Bill : 200
+
+Student Order
+Tikka Quantity : 2
+Bill : 600
+
+Student Order
+Tikka Quantity : 2
+Bill : 600
+
+Student Order
+Chat Quantity : 1
+Bill : 100
+
+Student Order
+Biryani Quantity : 1
+Bill : 0x7ffd3c002018
+
+Student Order
+MilkShake Quantity : 1
+Bill : 150
+
+Student Order
+Tikka Quantity : 2
+Bill : 600
+
+Student Order
+Biryani Quantity : 1
+Bill : 200
+

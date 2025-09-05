@@ -1,0 +1,16 @@
+Name Price Quanity
+Juice 100 11
+Chat 100 11
+Karahi 250 12
+Sabzi 120 15
+Manchurian 150 16
+Qorma 180 20
+Paratha 60 20
+Roll 150 22
+MilkShake 150 22
+Fries 100 25
+Samosa 30 25
+Pepsi 70 30
+Burger 100 34
+Biryani 200 43
+Tikka 300 63
